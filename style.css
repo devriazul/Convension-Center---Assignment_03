@@ -9,5 +9,6 @@ body {
 }
 
 .slider-image {
-    object-fit: cover;
+    /* object-fit: cover; */
+    background-position: center;
 }
