@@ -10,7 +10,7 @@ body {
 
 .carousel-item:nth-child(1) img {
     background-image: url("./images/banner.png");
-    height: 450px;
+    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -19,7 +19,7 @@ body {
 
 .carousel-item:nth-child(2) img {
     background-image: url("./images/banner1.jpg");
-    height: 450px;
+    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -28,7 +28,7 @@ body {
 
 .carousel-item:nth-child(3) img {
     background-image: url("./images/banner3.jpg");
-    height: 450px;
+    height: 500px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
